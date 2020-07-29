@@ -68,8 +68,7 @@ if (Desc > 120){
 }
 else {
     document.getElementById("txtIdprecioDescuento").value = "$"+Desc;
-}
-break;   
+}   
 
 
 
